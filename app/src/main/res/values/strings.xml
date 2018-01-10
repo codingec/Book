@@ -1,0 +1,12 @@
+ 
+<resources >
+
+    <string name="app_name">My book</string>
+    <string name="title_section1">APPLE</string>
+    <string name="title_section2">ORANGE</string>
+    <string name="title_section3">GRAPES</string>
+    <string name="title_section4">M16</string>
+    <string name="title_section5">CAR</string>
+    <string name="title_section6">BRIDGE</string>¬
+     
+</resources>
